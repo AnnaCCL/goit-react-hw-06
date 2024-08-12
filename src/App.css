@@ -1,0 +1,7 @@
+.box {
+  margin: 0 auto;
+  border-radius: 12px;
+  padding: 30px;
+  background-color: rgb(229, 215, 238);
+  max-width: 800px;
+}
